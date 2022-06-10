@@ -1,0 +1,21 @@
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\bin\Debug\Microondas.exe.config
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\bin\Debug\Microondas.exe
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\bin\Debug\Microondas.pdb
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.Form1.resources
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.exe
+C:\Users\Marcelo\Desktop\microondas-cs\Microondas\Microondas\obj\Debug\Microondas.pdb
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\Microondas.exe.config
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\Microondas.exe
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\Microondas.pdb
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.csproj.AssemblyReference.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.Form1.resources
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.exe
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\MicroondasBen.exe.config
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\MicroondasBen.exe
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\bin\Debug\MicroondasBen.pdb
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.csproj.AssemblyReference.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\Microondas.Form1.resources
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.Properties.Resources.resources
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.csproj.GenerateResource.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.csproj.CoreCompileInputs.cache
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.exe
+C:\Users\Jaque e Douglas\source\repos\microondas\Microondas\Microondas\obj\Debug\MicroondasBen.pdb
